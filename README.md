@@ -1,2 +1,2 @@
 # HackerEarth
-HackerEarth Problem Solutions
+HackerEarth Solutions in C
